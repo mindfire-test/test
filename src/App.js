@@ -4,7 +4,7 @@ import "./App.css";
 function App() {
   return (
     <div className="App">
-      <header className="App-header">We have completed this poc, Hello world</header>
+      <header className="App-header">We have completed this poc, Hello Tailwind</header>
     </div>
   );
 }
